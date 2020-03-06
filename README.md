@@ -1,5 +1,4 @@
-# square_fractals_openGL
-Subdivision of square into fractals 
+
 # square_fractals_openGL
 Subdivision of square into fractals 
 ### 1.1 Square Fractals
