@@ -1,4 +1,4 @@
-
+![](Images/3.png)
 # square_fractals_openGL
 Subdivision of square into fractals 
 ### 1.1 Square Fractals
@@ -122,11 +122,11 @@ the Polygon to listofpols as well as making the curr point to new polygon.
 When user presses the key ’-’ back() function is called which simply moves
 the curr pointer one index back in listofpols.
 
+![](Images/1.png)
 
 Figure 1.1: Square
-```
+
+![](Images/2.png)
+![](Images/3.png)
 
 Figure 1.2: Making fractals
-
-
-### 1.2 Ball free fall Animation
