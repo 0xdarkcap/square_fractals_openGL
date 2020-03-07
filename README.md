@@ -1,6 +1,9 @@
 ![](Images/3.png)
 # square_fractals_openGL
 Subdivision of square into fractals 
+```
+press + to increase the subdivision
+press - to decrease the subdivision
 ### 1.1 Square Fractals
 
 Given a initial square, subdivide each side of square such that a square of side
