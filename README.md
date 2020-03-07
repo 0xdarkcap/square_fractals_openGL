@@ -18,14 +18,14 @@ of original edge.
 Vertex and Edges.
 ```cpp
 structVertex{
-glm::vec2 v;
+  glm::vec2 v;
 };
 
 
 structEdges{
-glm::vec2 first ;
-glm::vec2 second;
-charorientation;
+  glm::vec2 first ;
+  glm::vec2 second;
+  char orientation;
 };
 ```
 The class Pol contains several methods and variables to store the new vertices
